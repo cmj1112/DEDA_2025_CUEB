@@ -1,0 +1,5 @@
+1.Code the pdf plot from slide 20, DEDA class, unit_5
+2.Creat a N(mu,SIGMA),try in a rotating plot
+3.repair the slider plot for BTC
+4.find a RF example
+5.continue Unite_6
