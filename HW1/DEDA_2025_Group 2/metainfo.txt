@@ -1,4 +1,4 @@
-Name of Quantlet: DEDA_2025_Group 2
+Name of Quantlet: DEDA_2025_Group2 HW1
 
 Published in: DEDA_2025_CUEB
 
