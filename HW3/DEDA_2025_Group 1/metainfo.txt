@@ -4,7 +4,7 @@ Published in: DEDA_2025_CUEB
 
 Description: We made a rotating plot figure, and then redid the LDA example of IRTG1792.
 
-Submitted: 10 Sep 2025
+Submitted: 10 Jul 2025
 
 Keywords:
 - 'LDA'
