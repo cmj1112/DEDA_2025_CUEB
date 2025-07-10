@@ -1,1 +1,27 @@
+Name of Quantlet: DEDA_2025_Group 2
 
+Published in: DEDA_2025_CUEB
+
+Description: We made a rotating plot figure, and then redid the LDA example of IRTG1792. The metainfo has been all made up.
+
+Submitted: 10 Sep 2025
+
+Keywords:
+- 'LDA'
+- 'Box-Muller method'
+- 'Heatmap'
+- 'NLP'
+- 'Function'
+- 'CUEB'
+- 'Capital University of Economics and Business Beijing, China'
+
+Output:
+- 'Abstracts\'
+- 'Assignment3.pptx'
+- '3d_dual_distributions.gif'
+- 'heatmap_abstract.png'
+- 'Box-Muller Method.py'
+- 'Abstract Scraper.py'
+- 'LDA Analysis.py'
+
+Author: Zeyuan Wang
