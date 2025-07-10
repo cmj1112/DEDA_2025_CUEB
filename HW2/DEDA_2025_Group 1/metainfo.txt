@@ -2,19 +2,22 @@ Name of Quantlet: DEDA_2025_Group1 HW2
 
 Published in: DEDA_2025_CUEB
 
-Description: Use complex numbers as parameters to flat fish that shaking its tail. Creates an MP4 file of the flat fish.
+Description: Code the pdf plot from slide 20, DEDA class, unit_5. Creat a N(mu,SIGMA),try in a rotating plot. Repair the slider plot for BTC. Find a RF example.
 
-Submitted: 22 Sep 2022
+Submitted: 10 July 2022
 
 Keywords:
-- 'Complex analysis'
+- 'Decsion tree'
 - 'Fourier Transform'
 - 'shaking falt fish'
 - 'Mathematics'
 - 'Function'
 
 Output:
-- 'DEDA_Class_2022_0453946_Tracy_flatfish.png'
-- 'DEDA_Class_2022_0453946_Tracy_flatfish.mp4'
+- '3D plot.py'
+- 'BTC price.ipynb'
+- 'BTC_picture.png'
+- 'decision-making tree.py'
+- 'Group 1 HW2.ppyx'
 
-Author: Tracy Zhou
+Author: Boyang Li, Jiaheng Xie, Hanfei Yang
