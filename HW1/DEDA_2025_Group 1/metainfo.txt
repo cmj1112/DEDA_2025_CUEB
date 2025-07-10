@@ -1,14 +1,14 @@
 Name of Quantlet: DEDA_2025_Group1 HW1 
 
-Published in: DEDA_2022_NYCU
+Published in: DEDA_2025_CUEB
 
-Description: Use complex numbers as parameters to flat fish that shaking its tail. Creates an MP4 file of the flat fish.
+Description: Write the description for your task. 
 
-Submitted: 22 Sep 2022
+Submitted: 10 Jun 2025
 
 Keywords:
-- 'Complex analysis'
-- 'Fourier Transform'
+- 'first keyword'
+- 'second keyword'
 - 'shaking falt fish'
 - 'Mathematics'
 - 'Function'
@@ -17,4 +17,4 @@ Output:
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.png'
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.mp4'
 
-Author: Tracy Zhou
+Author: Tracy Zhou, Second Name, 
