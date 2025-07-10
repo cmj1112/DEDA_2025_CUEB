@@ -24,4 +24,4 @@ Output:
 - 'Abstract Scraper.py'
 - 'LDA Analysis.py'
 
-Author: Zeyuan Wang
+Author: Jiaheng Xie, Boyang Li, Yanghan Fei
