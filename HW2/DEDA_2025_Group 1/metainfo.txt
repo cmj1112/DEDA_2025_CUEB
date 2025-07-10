@@ -8,9 +8,9 @@ Submitted: 10 July 2022
 
 Keywords:
 - 'Decsion tree'
-- 'Fourier Transform'
-- 'shaking falt fish'
-- 'Mathematics'
+- 'BTC'
+- '3D plot'
+- 'CUEB'
 - 'Function'
 
 Output:
