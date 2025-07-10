@@ -4,7 +4,7 @@ Published in: DEDA_2025_CUEB
 
 Description: Write the description for your task. 
 
-Submitted: 10 Jun 2025
+Submitted: 10 July 2025
 
 Keywords:
 - 'first keyword'
@@ -17,4 +17,4 @@ Output:
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.png'
 - 'DEDA_Class_2022_0453946_Tracy_flatfish.mp4'
 
-Author: Tracy Zhou, Second Name, 
+Author: First name, Second Name, 
