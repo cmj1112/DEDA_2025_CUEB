@@ -1,8 +1,8 @@
-Name of Quantlet: DEDA_2025_Group 2
+Name of Quantlet: DEDA_2025_Group 1 HW3
 
 Published in: DEDA_2025_CUEB
 
-Description: We made a rotating plot figure, and then redid the LDA example of IRTG1792. The metainfo has been all made up.
+Description: We made a rotating plot figure, and then redid the LDA example of IRTG1792.
 
 Submitted: 10 Sep 2025
 
@@ -16,12 +16,15 @@ Keywords:
 - 'Capital University of Economics and Business Beijing, China'
 
 Output:
-- 'Abstracts\'
-- 'Assignment3.pptx'
-- '3d_dual_distributions.gif'
-- 'heatmap_abstract.png'
-- 'Box-Muller Method.py'
-- 'Abstract Scraper.py'
-- 'LDA Analysis.py'
+- 'topic_keywords.xlsx'
+- '3D_plot(2).mp4'
+- '3D_plot(2).py'
+- '3D_plot.ipynb'
+- 'New_3D_plot(2).mp4'
+- 'Redo_pdf.py'
+- 'Word_cloud.jpg'
+- 'pdf_and_cdf.mp4'
+- 'thermodynamic_diagram.jpg'
+
 
 Author: Jiaheng Xie, Boyang Li, Yanghan Fei
