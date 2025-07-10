@@ -1,0 +1,1 @@
+AbstractAbstract) in terms of cluster membership. Comparison with k-means or CLUTO reveals excellent performance of AWC.Keywords:Clustering, JEL system, Adaptive algorithm, Economic articles, Nonparametric
