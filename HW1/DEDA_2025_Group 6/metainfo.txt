@@ -1,4 +1,4 @@
-Name of Quantlet: DEDA_2025_Group 6 HW1
+Name of Quantlet: DEDA_2025_Group 6
 
 Published in: DEDA_2025_CUEB
 
@@ -26,3 +26,4 @@ Chinadaily_All_News.csv
 filtered_image.png
 
 Author: Jiaqi Li
+
