@@ -17,7 +17,10 @@ Keywords:
 'CUEB'
 
 Output:
-- 'DEDA_Class_2022_0453946_Tracy_flatfish.png'
-- 'DEDA_Class_2022_0453946_Tracy_flatfish.mp4'
+- 'gtoup 1.key'
+- 'scrape_south_china_moring_post.png'
+- 'shrimp.py'
+- 'smilling whale.py'
+- 'Corn cannon.py'
 
 Author: Jiaheng Xie, Boyang Li, Hanfei Yang 
