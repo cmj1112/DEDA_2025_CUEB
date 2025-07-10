@@ -1,6 +1,6 @@
 Name of Quantlet: DEDA_2025_Group1 HW2
 
-Published in: DEDA_2022_NYCU
+Published in: DEDA_2025_CUEB
 
 Description: Use complex numbers as parameters to flat fish that shaking its tail. Creates an MP4 file of the flat fish.
 
