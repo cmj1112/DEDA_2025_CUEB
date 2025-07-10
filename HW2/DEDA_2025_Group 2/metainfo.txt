@@ -1,4 +1,4 @@
-Name of Quantlet: DEDA_2025_Group 1
+Name of Quantlet: DEDA_2025_Group 2
 
 Published in: DEDA_2025_CUEB
 
@@ -17,7 +17,10 @@ Keywords:
 
 Output:
 - 'Assignment2.pptx'
-- 'rotating_normal_distribution.gif'
+- '3d_dual_distributions.gif'
 - 'BTC_price.HTML'
+- 'Box-Muller Method.py'
+- 'BTC Slider Plot backpack.py'
+- 'PDFandCDF.py'
 
 Author: Zeyuan Wang
