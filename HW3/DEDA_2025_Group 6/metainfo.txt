@@ -1,0 +1,30 @@
+Name of Quantlet: DEDA_2025_Group 6
+
+Published in: DEDA_2025_CUEB
+
+Description:
+Generates a 3D visualization of a cigar-shaped normal distribution with anisotropic covariance using Plotly. Additionally, performs text analysis on scraped academic abstracts, including word frequency extraction, word cloud generation (default, dark, and blue styles), and a keyword heatmap visualization.
+
+Submitted: 11 Jul 2025
+
+Keywords:
+'3D Visualization'
+'Normal Distribution'
+'Multivariate Statistics'
+'Web Scraping'
+'Text Mining'
+'Word Cloud'
+'Natural Language Processing'
+'Data Visualization'
+'Heatmap'
+
+Output:
+Abstract_all.txt
+Cigar_3d_normal_rotation.html
+wordcloud_blue.png
+wordcloud_dark.png
+wordcloud_default.png
+heatmap_abstract.png
+
+Author: Jiaqi Li
+
