@@ -1,8 +1,3 @@
-# 开发人员:xiaol
-# 开发时间:2025/7/13 17:47
-# 文件名称:HW3_3_LDA.PY
-# 开发工具:PyCharm
-
 import numpy as np
 import pandas as pd
 import os
