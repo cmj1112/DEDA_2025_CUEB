@@ -21,4 +21,4 @@ Output:
 - 'Webscraper.py'
 - 'Wiggle_Trunk.py'
 
-Author: Zeyuan Wang
+Author: Xiyang Zhang, Hanmin Geng
