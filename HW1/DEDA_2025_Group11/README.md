@@ -5,7 +5,7 @@
 </div>
 
 ```
-Name of Quantlet: DEDA_2025_Group 11 HW1
+Name of Quantlet: DEDA_2025_Group11 HW1
 
 Published in: DEDA_2025_CUEB
 

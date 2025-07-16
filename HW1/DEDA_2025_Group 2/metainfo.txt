@@ -1,10 +1,10 @@
-Name of Quantlet: DEDA_2025_Group 2
+Name of Quantlet: DEDA_2025_Group2 HW1
 
 Published in: DEDA_2025_CUEB
 
 Description: We changed the parameters of the elephant to make it like a shrimp. Then we scraped the ChinaDaily Buesiness website and collected the data in an Excel document.
 
-Submitted: 8 Sep 2025
+Submitted: 10 Jul 2025
 
 Keywords:
 - 'Web Scraping'

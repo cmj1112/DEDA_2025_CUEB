@@ -1,0 +1,1 @@
+Abstract In the work a characterization of difference of multivariate Gaussian measures is found on the family of centered Eucledian balls. In particular, it helps to derive (xx see paper).   Keywords:  multivariate Gaussian measure, Kolmogorov distance, Gaussian comparison  

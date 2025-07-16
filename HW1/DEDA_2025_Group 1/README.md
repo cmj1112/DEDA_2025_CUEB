@@ -9,21 +9,23 @@ Name of Quantlet: DEDA_2025_Group1 HW1
 
 Published in: DEDA_2025_CUEB
 
-Description: Write the description for your task.
+Description: This file explains what polar coordinates are, plots a movable animal with four points, and crawls a news website.
 
 Submitted: 10 July 2025
 
 Keywords: 
-- first keyword
-- second keyword
-- shaking falt fish
-- Mathematics
-- Function
 
 Output: 
-- DEDA_Class_2022_0453946_Tracy_flatfish.png
-- DEDA_Class_2022_0453946_Tracy_flatfish.mp4
+- gtoup 1.key
+- scrape_south_china_moring_post.png
+- shrimp.py
+- smilling whale.py
+- Corn cannon.py
 
-Author: First name, Second Name,
+Author: Jiaheng Xie, Boyang Li, Hanfei Yang
 
 ```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%201/scrape_south_china_morning_post.png" alt="Image" />
+</div>
+

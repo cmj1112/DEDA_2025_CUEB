@@ -5,7 +5,7 @@
 </div>
 
 ```
-Name of Quantlet: DEDA_2025_Group 6 HW1
+Name of Quantlet: DEDA_2025_Group6 HW1
 
 Published in: DEDA_2025_CUEB
 
@@ -23,15 +23,7 @@ Author: Jiaqi Li
 
 ```
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/22041337_114500128000_2.jpg" alt="Image" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/33760392_141645925120_2.jpg" alt="Image" />
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/bee-eaters-wings-folded-diving-from-the-skynatural-wonders-and-beautiful-J0K1GT.jpg" alt="Image" />
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/adefb056e4a178a6.jpg" alt="Image" />
 </div>
 
 <div align="center">
@@ -43,11 +35,11 @@ Author: Jiaqi Li
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/hummingbird_animation.gif" alt="Image" />
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/filtered_image.png" alt="Image" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/t0152adf58f6008c8f9.jpg" alt="Image" />
+<img src="https://raw.githubusercontent.com/QuantLet/DEDA_2025_CUEB/main/HW1/DEDA_2025_Group%206/hummingbird_animation.gif" alt="Image" />
 </div>
 
 <div align="center">

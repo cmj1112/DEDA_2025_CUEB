@@ -1,0 +1,1 @@
+Abstract IV regression in the context of a re-sampling is considered in the work. Comparatively, the contribution in the development is a structural identication in the IV model. The work also contains a multiplier-bootstrap justication.   Keywords:  Gaussian Process, Kernel methods, Wasserstein Distance 

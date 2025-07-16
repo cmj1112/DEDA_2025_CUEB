@@ -1,0 +1,1 @@
+Abstract:Oberwolfach Report: New Developments in Functional and Highly Multivariate Statistical MethodologyKeywords:multivariate functional data, high-dimensional M-estimators, nuclear norm regularizer, factor analysis, expectile regression, fMRI, risk perception

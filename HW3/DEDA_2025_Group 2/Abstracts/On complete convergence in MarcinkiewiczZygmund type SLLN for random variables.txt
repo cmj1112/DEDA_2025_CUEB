@@ -1,0 +1,1 @@
+Abstract We consider a generalization of Baum-Katz theorem for random vari- ables satisfying some cover conditions. Consequently, we get the result for many dependent structure, such as END, -mixing, -mixing and -mixing, etc.  Keywords:  Complete convergence; Marcinkiewicz-Zygmund type SLLN; Extended negatively dependent; Mixing dependency; Weakly mean bounded.  
