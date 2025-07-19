@@ -19,6 +19,6 @@ Keywords:
 
 Output:
 - 'capybara.mp4'
-- '南华早报_新闻链接.csv'
+- 'Scraping code of South China Morning Post.py'
 
 Author: Danni Luo, Jiayi Cong, Shaoyuan Xia
