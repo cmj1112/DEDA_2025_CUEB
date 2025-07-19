@@ -1,0 +1,25 @@
+Name of Quantlet: DEDA_2025_Group 6
+
+Published in: DEDA_2025_CUEB
+
+Description:
+PCA-reduced 3D visualization with interactive SVM decision plane and support vectors.Use Preprocessing, RBF-kernel SVM training, and confusion matrix evaluation to predict Bank Loan
+
+Submitted: 15 Jul 2025
+
+Keywords:
+'Support Vector Machine (SVM)'
+'Principal Component Analysis (PCA)'
+'3D Visualization'
+'Interactive Plot'
+'Confusion Matrix'
+'Heatmap'
+'Data Preprocessing'
+'Binary Classification'
+'Bank Marketing'
+
+Output:
+svm_3d_rotation_plot.html
+svm_result.png
+
+Author: Jiaqi Li
