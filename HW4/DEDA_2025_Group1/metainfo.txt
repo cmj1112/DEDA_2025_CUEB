@@ -18,6 +18,7 @@ Output:
 - 'SVM_in_my_data.ipynb'
 - 'svm_3d.mov'
 - 'svm_3d_in_my_data.mov'
+- 'svm_sample_data.xlsx'
 
 
 
