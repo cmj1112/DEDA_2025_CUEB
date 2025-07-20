@@ -1,0 +1,61 @@
+Topic_ID,Topic_Name,Word,Probability
+1,Battery Technology Route,sales,0.036152434
+1,Battery Technology Route,china,0.016660757
+1,Battery Technology Route,global,0.015065194
+1,Battery Technology Route,car,0.012237237
+1,Battery Technology Route,share,0.012020442
+1,Battery Technology Route,cars,0.011719562
+1,Battery Technology Route,vehicle,0.010584854
+1,Battery Technology Route,ambitions,0.009023295
+1,Battery Technology Route,outlook,0.008716947
+1,Battery Technology Route,vehicles,0.008679534
+1,Battery Technology Route,scenario,0.008067561
+1,Battery Technology Route,policy,0.008043517
+1,Battery Technology Route,steps,0.0073561575
+1,Battery Technology Route,climate,0.0072959457
+1,Battery Technology Route,catching,0.0070443135
+2,Regional Market Differences,charging,0.027478784
+2,Regional Market Differences,chargers,0.013559499
+2,Regional Market Differences,duty,0.01263183
+2,Regional Market Differences,vehicle,0.012218684
+2,Regional Market Differences,trucks,0.012138013
+2,Regional Market Differences,battery,0.011991875
+2,Regional Market Differences,public,0.011220161
+2,Regional Market Differences,emission,0.010782609
+2,Regional Market Differences,infrastructure,0.009911238
+2,Regional Market Differences,buses,0.00979982
+2,Regional Market Differences,zero,0.009753635
+2,Regional Market Differences,heavy,0.009578938
+2,Regional Market Differences,swapping,0.008483513
+2,Regional Market Differences,vehicles,0.007912752
+2,Regional Market Differences,fast,0.0075762537
+3,Policy Tools,battery,0.023479592
+3,Policy Tools,models,0.015961157
+3,Policy Tools,usd,0.015024758
+3,Policy Tools,vehicle,0.013077871
+3,Policy Tools,global,0.009771245
+3,Policy Tools,cars,0.009677969
+3,Policy Tools,car,0.009407463
+3,Policy Tools,lithium,0.009320191
+3,Policy Tools,vehicles,0.0092752185
+3,Policy Tools,available,0.009073819
+3,Policy Tools,batteries,0.0083741415
+3,Policy Tools,united,0.00760986
+3,Policy Tools,china,0.0073067904
+3,Policy Tools,bev,0.0071896645
+3,Policy Tools,suvs,0.0070528467
+4,Supply Chain,battery,0.01404291
+4,Supply Chain,companies,0.010004037
+4,Supply Chain,energy,0.009868361
+4,Supply Chain,lithium,0.00866555
+4,Supply Chain,price,0.0077159083
+4,Supply Chain,group,0.0072147143
+4,Supply Chain,based,0.0069690845
+4,Supply Chain,market,0.0066593704
+4,Supply Chain,new,0.006561058
+4,Supply Chain,critical,0.005999779
+4,Supply Chain,targets,0.005499404
+4,Supply Chain,carmakers,0.0053751958
+4,Supply Chain,corporate,0.005356173
+4,Supply Chain,mining,0.0052529974
+4,Supply Chain,usd,0.0047817156
