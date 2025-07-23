@@ -1,1 +1,19 @@
+Name of Quantlet: DEDA_2025_CUEB/group 4
+Published in: DEDA_2025_CUEB
 
+Description: Use complex numbers as parameters to flat fish that shaking its tail. Creates an MP4 file of the flat fish.Dogs, eyebrow-raising swans and eating snakes.
+
+Submitted: 23 Jul 2025
+
+Keywords:
+- 'Complex analysis'
+- 'Fourier Transform'
+- 'shaking falt fish'
+- 'Mathematics'
+- 'Function'
+- 'NYCU'
+- 'The Capital University of Economic and Business'
+
+Output:
+
+Author: Xinyi Xu& Ziyue Qin
