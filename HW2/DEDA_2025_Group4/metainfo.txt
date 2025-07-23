@@ -1,1 +1,17 @@
+Name of Quantlet: DEDA_2025_CUEB/group 4
+Published in: DEDA_2025_CUEB
 
+Description: 1. code the pdfplot from slide 20, DEDAclass, unit 52. create a N(mu,SIGMA), try in a rotatingplot.3. repair the slider plotfor BTC4. find a RF example
+Submitted: 23 Jul 2025
+
+Keywords:
+- 'N(mu,SIGMA)'
+- 'rotatingplot'
+- 'BTC4.'
+- 'RF'
+- 'Function'
+- 'The Capital University of Economic and Business'
+
+Output:
+
+Author: Xinyi Xu& Ziyue Qin
