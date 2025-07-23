@@ -1,0 +1,22 @@
+Name of Quantlet: DEDA_2025_Group7 HW2
+
+Published in: DEDA_2025_CUEB
+
+Description: Code the pdf plot from slide 20, DEDA class, unit_5. Creat a N(mu,SIGMA),try in a rotating plot. Repair the slider plot for BTC. Find a RF example.
+
+Submitted: 11 July 2022
+Keywords:
+- 'DT'
+- 'BTC'
+- 'rotation plot'
+- 'CUEB'
+- 'function'
+
+Output:
+- '3D plot.py'
+- 'BTC_Hrli.ipynb'
+- 'BTC_picture.png'
+- 'NaturalLangugaeProcessing(IRTG_1792).ipynb'
+- 'HW3_Group7_XiLong&JinhaoGuo&Haoranli.pptx'
+
+Author: XiLong, JinhaoGuo, HaoranLi

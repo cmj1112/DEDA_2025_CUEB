@@ -1,0 +1,24 @@
+Name of Quantlet: DEDA_2025_Group 2
+
+Published in: DEDA_2025_CUEB
+
+Description: We made a rotating 3D plot figure for the liner SVM, and then made the non-liner SVM classification on our project data. The metainfo has been all made up.
+
+Submitted: 19 Sep 2025
+
+Keywords:
+- 'SVM'
+- 'Decision Boundary'
+- 'EWMA'
+- 'Web Scraping'
+- 'Function'
+- 'CUEB'
+- 'Capital University of Economics and Business Beijing, China'
+
+Output:
+- 'Assignment4.pptx'
+- '3d_svm_rotation.gif'
+- 'svm_decision_boundary.png'
+- 'SVM.py'
+
+Author: Zeyuan Wang

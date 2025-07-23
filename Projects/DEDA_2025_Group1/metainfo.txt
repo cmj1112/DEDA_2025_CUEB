@@ -1,0 +1,26 @@
+Name of Quantlet: DEDA_2025_Group1 Final_project
+
+Published in: DEDA_2025_CUEB
+
+Description: We made a rotating plot figure, and then redid the LDA example of IRTG1792.
+
+Submitted: 21 Jul 2025
+
+Keywords:
+- 'NLP'
+- 'BERT'
+- '3D_plot'
+- 'CUEB'
+- 'Capital University of Economics and Business Beijing, China'
+
+Output:
+- 'final_project.key'
+- 'baidu_index.ipynb'
+- 'word_cloud.ipynb'
+- 'insidertrading.ipynb'
+- 'word_cloud.jpg'
+
+
+
+Author: Jiaheng Xie, Boyang Li, Yanghan Fei
+

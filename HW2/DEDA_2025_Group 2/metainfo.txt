@@ -1,10 +1,10 @@
-Name of Quantlet: DEDA_2025_Group 2 HW2
+Name of Quantlet: DEDA_2025_Group2 HW2
 
 Published in: DEDA_2025_CUEB
 
 Description: Code the PDF plot from slide 20, DEDA class, unit 5. Create a N(mu,SIGMA), try in a rotating plot. Repair the slider plot for BTC. Find a RF example.
 
-Submitted: 10 Sep 2025
+Submitted: 10 Jul 2025
 
 Keywords:
 - 'PDF plot'
